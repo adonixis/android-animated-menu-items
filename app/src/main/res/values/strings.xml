@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animated Menu Items</string>
+
+    <string name="title_action_cut">Cut</string>
+    <string name="title_action_copy">Copy</string>
+    <string name="title_action_delete">Delete</string>
+    <string name="title_action_share">Share</string>
+</resources>
